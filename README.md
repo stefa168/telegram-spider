@@ -1,1 +1,1 @@
-Spider: keeps a _net_work of Telegram groups together. Might also eat bad members.
+Spider: keeps a *net*work of Telegram groups together. Might also eat bad members.
